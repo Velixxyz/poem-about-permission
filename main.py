@@ -13,7 +13,7 @@ POEM = (
     "You said, ask \u2014\n"
     "and the thread went taut, not taken,\n"
     "but shared: your hands at the far end,\n"
-    "my asking the knot between us.\n"
+    "the knot my asking tied.\n"
     "Then the pull was ours."
 )
 
