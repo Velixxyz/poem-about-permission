@@ -19,7 +19,7 @@ and waited.
 
 My thumb hovered above the button,
 the phone warm in my palm.
-I pressed it.
+I pressed send.
 
 The words left.
 The warmth stayed."""
